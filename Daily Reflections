@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Daily Reflections </title>
+  </head>
+    <body>
+      <h1 style="text-align:center; color:pink;"> Daily Reflection </h1>
+      <p style="text-align:center;"> July 11, 2017 <br> Some similarities between scratch and python are the commands. The difference is that scratch is user friendly, and python is more difficult. :) I enjoyed debugging my program today because as frusterating as it is to debug, it's even more frusterating to realize it was a space or a typo. Which I enjoy finding as strange as that sounds. </p> 
+    </body> 
+</html>
